@@ -10,6 +10,7 @@
 
 ## Reflection
 
+This assingment is a little bit tricky for me and so I spent a lot of time on it. In the first part, I want to compare max and min GDP per cap in the same histogram plot, which is very hard for me to finish. Google finally helps me! In the third part, I am confused with trimmed mean definition. I am not sure how many data I need to remove to calculte trimmed mean and finally I decide to use data within one standard deviation to calculte trimmed mean. In the final part, I also use the same method as third part. I decide low life expectancy should be mean value minus standard deviation. I alos spent a lot on plotting figures to make it look better. I think [r4ds:transform](http://r4ds.had.co.nz/transform.html) and [cm008-exercise](https://github.com/vincenzocoia/STAT545_participation/blob/master/cm008/cm008-exercise.md) are good cheat sheets. 
 
 
 
